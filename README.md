@@ -11,7 +11,7 @@ THIS MY FIRST LARAVEL PROJECT
 - Run __php artisan key:generate__
 - Run __php artisan migrate --seed__ (it has some seeded data for your testing)
 - That's it: launch the main URL. 
-- Admin's credentials: __admin@admin.com__ - __password__
+- Admin's credentials: __elie@dollar.com__ - __password__
 
 
 
